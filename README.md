@@ -3,4 +3,6 @@ the repo contains two noebooks.  in load_split_xray_folders.ipynb a dataset of 4
 
 
 
-![Untitled2](https://github.com/nezamtrm/pneumonia_detection/assets/128442592/80c39062-eb45-4922-a91d-4f5bca80702f)
+
+![Untitled3](https://github.com/nezamtrm/pneumonia_detection/assets/128442592/f2987d73-88b6-486e-86a4-0ebbf8801d61)
+![Untitled4](https://github.com/nezamtrm/pneumonia_detection/assets/128442592/6d1c6325-a152-47d2-9123-91e3d6533e68)
